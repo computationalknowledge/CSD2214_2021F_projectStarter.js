@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title>Peter's Great Page</title>
+    <script
+    src="https://code.jquery.com/jquery-3.6.0.js"
+    integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+    crossorigin="anonymous"></script>
+      
+    <script type = "text/javascript">
+       $(document).ready(function() {
+          document.write("Hello, World!");
+       });
+    </script>
+
+
+</head>
+<body>
+    <h1><font color='red'>Welcome to the Gaming Casino</font></h1>
+    <img src='brownbear.png' width='50%' height=''/>
+
+</body>
+</html>
